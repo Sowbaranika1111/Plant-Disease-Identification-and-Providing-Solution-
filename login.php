@@ -40,8 +40,8 @@
                         <div class="d-grid mt-3">
                             <button type="submit" class="btn btn-success">Sign in</button>
                             <p class="text-center text-muted mt-2"> Register now for free by clicking here - <a
-                                    href="signUp.html">Register</a></p>
-                            <a href="index.html"
+                                    href="signUp.php">Register</a></p>
+                            <a href="plantsPrjt.php"
                                 class="home-page text-center text-bold mt-2 fw-bold border-top border-5 p-3">CROP CARE
                                 AI</a>
                         </div>

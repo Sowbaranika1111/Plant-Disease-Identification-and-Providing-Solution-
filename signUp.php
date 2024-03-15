@@ -49,7 +49,7 @@
                         <p class="text-center text-muted mt-2">When you register by clicking the Signup Button, you
                             agree to our <a href="#">Terms and
                                 Conditions</a> and <a href="#">Privacy Policy</a></p>
-                        <p class="text-center">Already have an account?<a href="login.html">Login Here</a></p>
+                        <p class="text-center">Already have an account?<a href="login.php">Login Here</a></p>
                     </div>
                 </form>
             </div>
